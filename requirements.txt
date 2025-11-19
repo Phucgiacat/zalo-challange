@@ -1,0 +1,9 @@
+ultralytics
+supervision
+torch>=2.0
+torchvision
+transformers
+scipy
+pyyaml
+opencv-python
+numpy
